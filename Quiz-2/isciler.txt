@@ -1,0 +1,4 @@
+1000,melike,gozdas,3113.3333333333335,Isci
+1000,melike,gozdas,3114.0,Isci
+1000,melike,gozdas,3214.0,Isci
+1000,melike,gozdas,3114.0,Isci
