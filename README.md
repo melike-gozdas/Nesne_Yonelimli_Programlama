@@ -1,1 +1,1 @@
-# 2020_Nesne_Yonelimli_Programlama
+# Nesne_Yonelimli_Programlama
